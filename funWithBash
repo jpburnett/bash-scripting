@@ -1,0 +1,16 @@
+#!/bin/bash
+
+printf "Hello World\n" 
+
+var1=Parker
+var2=Burnett
+
+echo $var1 $var2
+
+homedir=~/
+
+echo "Home directory will print below"
+ls $homedir
+
+
+
